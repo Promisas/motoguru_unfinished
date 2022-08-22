@@ -1,0 +1,12 @@
+.groups {
+    padding: 2%;
+}
+
+.banner {
+    text-align: center;
+    border: 1px solid black;
+    background: #262626;
+    color: #bfbfbf;
+} .groups li {
+      border: 1px solid black;
+  }

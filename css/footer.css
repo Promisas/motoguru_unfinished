@@ -1,0 +1,21 @@
+
+footer {
+    background: #323f4c;
+    color: white;
+
+    height: 140px;
+    text-align: left;
+
+
+}
+
+.uniq {
+    text-align: center;
+    line-height: 250px; /* changes when footer has more elements */
+    height: 50px;
+
+}
+
+footer a {
+    color: white;
+}
